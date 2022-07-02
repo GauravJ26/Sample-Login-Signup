@@ -1,0 +1,14 @@
+steps for routing use :
+
+**  This is main page instead of App js file for Routing purpose <br></br>
+   - wwrap Header navbar inside BrowserRouter tag <br></br>
+   - then we can add links to the things inside of Header navbar component.<br></br> 
+   <br></br>
+** Add header, footer and static page component outside of the router.<br></br>
+ thats how these component will be same for every page. <br></br>
+  or do not place these tags inside the route. <br></br>
+  <br></br>  
+*** wrap every components inside BrowserRouter,, <br></br>  
+  -- Use Link tags inside the header comp for routing path to desired path.  
+ 
+  <br></br>  <br></br>
